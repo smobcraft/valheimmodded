@@ -1,0 +1,13 @@
+{
+    "name": "BowFrometal",
+    "craftingStation": "Cold Forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "FrometalBar:15:7:False",
+        "PrimordialIce:10:5:False",
+        "LoxPelt:2:1:False",
+        "WorldTreeFragment:4:2:False"
+    ]
+}
